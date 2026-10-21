@@ -7,7 +7,12 @@
         "lentitud",
         "no carga",
         "pantalla azul",
-        "vpn"
+        "vpn",
+        "internet",
+        "computador",
+        "apagó",
+        "teclado",
+        "funciona"
     ],
     "Ventas y Comercial": [
         "cotización",
@@ -15,7 +20,12 @@
         "descuento",
         "comprar",
         "promoción",
-        "catálogo"
+        "catálogo",
+        "adquirir",
+        "cuesta",
+        "cuánto",
+        "renovar",
+        "suscripción"
     ],
     "Facturación y Pagos": [
         "pago",
@@ -24,6 +34,32 @@
         "cobro",
         "transferencia",
         "tarjeta",
-        "reembolso"
+        "reembolso",
+        "recibo",
+        "webpay",
+        "descontaron",
+        "cuenta corriente",
+        "transacción"
+    ],
+    "Recursos Humanos": [
+        "vacaciones",
+        "licencia",
+        "sueldo",
+        "contrato",
+        "liquidación",
+        "aguinaldo"
+    ],
+    "Reclamos": [
+        "molestia",
+        "indignado",
+        "pésimo",
+        "sernac",
+        "demora",
+        "inaceptable",
+        "estafadores",
+        "roto",
+        "asco",
+        "esperando",
+        "solución"
     ]
 }
