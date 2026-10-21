@@ -1,0 +1,29 @@
+{
+    "Soporte TI": [
+        "error",
+        "falla",
+        "caída",
+        "sistema",
+        "lentitud",
+        "no carga",
+        "pantalla azul",
+        "vpn"
+    ],
+    "Ventas y Comercial": [
+        "cotización",
+        "precio",
+        "descuento",
+        "comprar",
+        "promoción",
+        "catálogo"
+    ],
+    "Facturación y Pagos": [
+        "pago",
+        "factura",
+        "boleta",
+        "cobro",
+        "transferencia",
+        "tarjeta",
+        "reembolso"
+    ]
+}
